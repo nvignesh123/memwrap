@@ -1,4 +1,3 @@
-```markdown
 # memwrap
 
 `memwrap` is a wrapper script for Linux that launches a command with a hard memory limit. It helps to kill the command if it crosses a memory threshold, making it useful for Cloud VMs.
@@ -56,5 +55,4 @@ Feel free to submit issues or pull requests if you have any improvements or bug 
 ## License
 
 Check the LICENSE file for details
-```
 
